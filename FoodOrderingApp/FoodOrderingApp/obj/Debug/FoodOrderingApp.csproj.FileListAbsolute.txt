@@ -1,0 +1,9 @@
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\bin\Debug\FoodOrderingApp.exe.config
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\bin\Debug\FoodOrderingApp.exe
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\bin\Debug\FoodOrderingApp.pdb
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\obj\Debug\FoodOrderingApp.csprojResolveAssemblyReference.cache
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\obj\Debug\FoodOrderingApp.MainUI.resources
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\obj\Debug\FoodOrderingApp.Properties.Resources.resources
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\obj\Debug\FoodOrderingApp.csproj.GenerateResource.Cache
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\obj\Debug\FoodOrderingApp.exe
+H:\MY_Workspace\C#\FoodOrderingApp\FoodOrderingApp\obj\Debug\FoodOrderingApp.pdb
